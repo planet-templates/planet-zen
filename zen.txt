@@ -1,0 +1,9 @@
+# pakman manifest
+
+__file__.zen.html        zen.html.erb
+
+css/zen.css
+
+js/jquery-2.0.3.min.js
+js/jquery.zen.js
+
