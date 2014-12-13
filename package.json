@@ -1,0 +1,21 @@
+{
+  "name": "planet-zen",
+  "version": "0.1.0",
+  "description": "zen - planet template pack",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/planet-templates/planet-zen.git"
+  },
+  "keywords": [
+    "planet",
+    "pluto",
+    "planet-templates",
+    "zen"
+  ],
+  "author": "Gerald Bauer",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/planet-templates/planet-zen/issues"
+  },
+  "homepage": "https://github.com/planet-templates/planet-zen"
+}
